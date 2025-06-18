@@ -63,9 +63,7 @@ To conduct a thorough analysis of Blinkit's sales performance, customer satisfac
 ## 🛠️ Tools Used
 
 - **Microsoft Excel**: Data cleaning, KPI calculations, and dashboard creation.
-- *(Optional mention if converted to Power BI later)*
 
 ---
 
-## 📁 Project Structure
 
